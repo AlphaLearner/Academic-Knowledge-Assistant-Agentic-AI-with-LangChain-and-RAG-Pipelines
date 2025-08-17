@@ -1,4 +1,4 @@
-# StudentPerformancePrediction-ML
+# Academic Knowledge Assistant: Agentic AI with LangChain and RAG Pipelines
 This is a simple machine learning project using classifiers for predicting factors which affect student grades, using data from CSV file
 
 
